@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ezac86
 - 👀 I’m interested in upskilling myself in various ways
 - 🌱 I’m currently learning Github for FabAcademy
-- 💞️ I’m looking to collaborate on creating videos on tutorials on various tools on digital fabrication and design
-- 📫 How to reach me , you can reach me via my email. Thanks meet you there =)
+- 💞️ I’m looking to collaborate on creating videos on tutorials on various tools on digital fabrication and designing
+- 📫 How to reach me , you can reach me via my email. Thanks and meet you there =)
 
 <!---
 Ezac86/Ezac86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
